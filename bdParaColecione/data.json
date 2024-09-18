@@ -1,0 +1,65 @@
+[
+  {
+    "name": "boneco naruto",
+    "oldPrice": 40,
+    "currentPrice": 33,
+    "stock": 2,
+    "photo": "./images/naruto.webp"
+  },
+  {
+    "name": "Estatueta Deus da guerra",
+    "oldPrice": 120,
+    "currentPrice": 80,
+    "stock": 1,
+    "photo": "./images/naruto.webp"
+  },
+  {
+    "name": "chaveiro ",
+    "oldPrice": 25,
+    "currentPrice": 15,
+    "stock": 2,
+    "photo": "./images/naruto.webp"
+  },
+  {
+    "name": "pelota",
+    "oldPrice": "3",
+    "currentPrice": "2",
+    "stok": "1",
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "name": "chave de rosca",
+    "oldPrice": "15",
+    "currentPrice": "12",
+    "stok": "10",
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "name": "café",
+    "oldPrice": "15",
+    "currentPrice": "10",
+    "stok": "100",
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "name": "dentadura",
+    "oldPrice": "20",
+    "currentPrice": "10",
+    "stok": "10",
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "name": "teste",
+    "oldPrice": "200",
+    "currentPrice": "100",
+    "stok": "12",
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "name": "teste 2",
+    "oldPrice": "10",
+    "currentPrice": "5",
+    "stok": "10",
+    "photo": "./images/menu-3.png"
+  }
+]
